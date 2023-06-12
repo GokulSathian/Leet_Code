@@ -11,3 +11,6 @@ class Solution:
             res=max(res,i-l+1)
         return res
             
+"""
+Using left pointer and set
+Sliding Window Algo"""

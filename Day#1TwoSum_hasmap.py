@@ -7,3 +7,7 @@ class Solution:
             x[j]=i
 
 
+"""
+Using Dictinory/Hashmap
+enumerate
+"""
